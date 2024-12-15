@@ -1,4 +1,4 @@
-## Hello 💬
+## Hello 💫
 
 - 💅 I’m currently working on ...my portofolio
 - 🧚 I’m currently learning ...javascript
