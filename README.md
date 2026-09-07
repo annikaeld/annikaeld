@@ -1,32 +1,34 @@
-## Hey there!  👋 I'm Annika
-
 ### 🌟 About Me
-Good humor, curiosity, and a willingness to learn are my strengths. Communication is a big part of my current job, and I love to motivate others, be motivated, and continuously learn new things.
 
-Development and coding are still quite new to me - I'm a junior in the field - but I have the motivation and drive to keep getting better every day!
+I’m a front-end development student at Noroff with a background in customer service, communication, and structured problem-solving.
 
-### 🎯 What I'm Up To
-- 🔧 **Development Platforms** - Building full-stack solutions with modern cloud services
-- ☁️ Learning **backend development** with cloud service providers and modern data services
-- 🔐 Working with **authorization, authentication**, and user functionality
-- 🔌 Integrating front-end apps with backend services like **WordPress REST API** and **Supabase**
-- 📚 Continuing to develop skills in **HTML, CSS & JavaScript**
-- 🗃️ Recently built a backend server with **mySQL** for my last assignment, focusing on managing data and API endpoints
+I enjoy turning requirements into clear, user-friendly solutions and paying attention to the details that make an application reliable and easy to use. I’m curious, collaborative, and motivated by understanding how things work—not just making them work.
 
-### 💡 What I Love
-- 🤝 Collaboration and teamwork
-- 📊 Keeping projects organized and moving forward
-- 🧠 Problem-solving and continuous learning
-- 💬 Communication and motivation
+### 🎯 Currently
 
-### 🛠️ Tech & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I’m working on Holidaze, my front-end development exam project. It brings together planning, design, API integration, reusable components, user flows, and responsive development.
+
+My current focus includes:
+- Planning user flows with lo-fi wireframes
+- Designing and prototyping in Figma
+- Organising the development process with GitHub Projects
+- Building responsive applications with React and TypeScript
+- Creating reusable components and maintainable project structures
+- Improving accessibility, error handling, testing, and user feedback
+
+🛠️ Tech & Tools
+- Core: HTML, CSS, JavaScript, TypeScript
+- Front end: React, React Router, Tailwind CSS, Vite
+- State and validation: Zustand, React Hook Form, Zod
+- Data: REST APIs, Supabase, MySQL, WordPress REST API
+- Workflow: Git, GitHub, GitHub Projects, Figma, Netlify
+
+💡 What I Bring
+- Collaboration and clear communication
+- Curiosity and practical problem-solving
+- Structure, organisation, and steady project progress
+- Attention to usability, edge cases, and details
+- A strong motivation to keep learning and improving
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annika-eld%C3%B8y-6ba352198/)
